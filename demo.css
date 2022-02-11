@@ -1,0 +1,700 @@
+/* Transcript */
+
+position: relative;
+width: 816px;
+height: 1056px;
+
+/* Background */
+background: #FBFBFB;
+
+
+/* OR */
+
+position: absolute;
+visibility: hidden;
+width: 27px;
+height: 25px;
+left: 174px;
+top: 551px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* SSOLogin */
+
+position: absolute;
+visibility: hidden;
+width: nanpx;
+height: nanpx;
+left: 33px;
+top: 591px;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 33px;
+top: 591px;
+
+
+
+/* Rectangle 367 */
+
+position: absolute;
+width: 49.58px;
+height: 50px;
+left: 33px;
+top: 591px;
+
+background: #3B5998;
+box-shadow: 0px 0.826389px 1.65278px rgba(0, 0, 0, 0.25);
+border-radius: 8.26389px;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.66%;
+right: 80.62%;
+top: 74.12%;
+bottom: 22.29%;
+
+background: #FFFFFF;
+
+
+/* Google */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 98px;
+top: 591px;
+
+
+
+/* Rectangle 367 */
+
+position: absolute;
+width: 49.58px;
+height: 50px;
+left: 98px;
+top: 591px;
+
+background: #FFFFFF;
+box-shadow: 0px 0.826389px 1.65278px rgba(0, 0, 0, 0.25);
+border-radius: 8.26389px;
+
+
+/* image 1 */
+
+position: absolute;
+width: 28.39px;
+height: 29.17px;
+left: 108.74px;
+top: 601.83px;
+
+background: url(image.png);
+
+
+/* Google */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 228px;
+top: 591px;
+
+
+
+/* Rectangle 367 */
+
+position: absolute;
+width: 49.58px;
+height: 50px;
+left: 228px;
+top: 591px;
+
+background: #FFFFFF;
+box-shadow: 0px 0.826389px 1.65278px rgba(0, 0, 0, 0.25);
+border-radius: 8.26389px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 28.92px;
+height: 29.17px;
+left: 238.33px;
+top: 601.42px;
+
+background: url(image.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 163px;
+top: 591px;
+
+
+
+/* Rectangle 367 */
+
+position: absolute;
+width: 49.58px;
+height: 50px;
+left: 163px;
+top: 591px;
+
+background: #00ACEE;
+box-shadow: 0px 0.826389px 1.65278px rgba(0, 0, 0, 0.25);
+border-radius: 8.26389px;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.8%;
+right: 45.42%;
+top: 74.07%;
+bottom: 22.34%;
+
+background: #FFFFFF;
+
+
+/* Linkedin */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 293px;
+top: 591px;
+
+
+
+/* Rectangle 367 */
+
+position: absolute;
+width: 49.58px;
+height: 50px;
+left: 293px;
+top: 591px;
+
+background: #0079B1;
+box-shadow: 0px 0.826389px 1.65278px rgba(0, 0, 0, 0.25);
+border-radius: 8.26389px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 42.86px;
+height: 41px;
+left: 297px;
+top: 595px;
+
+background: url(image.png);
+
+
+/* Veteran-Staffing-Network-Logo-RGB-scaled 1 */
+
+position: absolute;
+width: 552px;
+height: 217px;
+left: 132px;
+top: 419px;
+
+background: url(Veteran-Staffing-Network-Logo-RGB-scaled.png);
+
+
+/* Courses Completed Transcript */
+
+position: absolute;
+width: 282px;
+height: 24px;
+left: 496px;
+top: 28px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #333333;
+
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+
+
+/* NAME Student Name */
+
+position: absolute;
+width: 254px;
+height: 94px;
+left: 551px;
+top: 204px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #333333;
+
+
+
+/* COURSE TITLE */
+
+position: absolute;
+width: 107px;
+height: 24px;
+left: 89px;
+top: 294px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #333333;
+
+
+
+/* Personal Motivation */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 89px;
+top: 338px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Networking (Social Media) */
+
+position: absolute;
+width: 188px;
+height: 24px;
+left: 89px;
+top: 416px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Interview Preparation */
+
+position: absolute;
+width: 151px;
+height: 24px;
+left: 89px;
+top: 533px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Job Search Basics & Preparation */
+
+position: absolute;
+width: 230px;
+height: 24px;
+left: 89px;
+top: 377px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Types of Interviews */
+
+position: absolute;
+width: 134px;
+height: 24px;
+left: 89px;
+top: 494px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Cover Letters */
+
+position: absolute;
+width: 93px;
+height: 24px;
+left: 89px;
+top: 455px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Establishing a Schedule */
+
+position: absolute;
+width: 168px;
+height: 24px;
+left: 89px;
+top: 572px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* COMPLETION DATE */
+
+position: absolute;
+width: 146px;
+height: 24px;
+left: 577px;
+top: 294px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #333333;
+
+
+
+/* 04 / 21 / 2021 */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: 577px;
+top: 338px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 05 / 15 / 2021 */
+
+position: absolute;
+width: 91px;
+height: 24px;
+left: 577px;
+top: 416px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 06 / 17 / 2021 */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: 577px;
+top: 533px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 05 / 03 / 2021 */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 577px;
+top: 377px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 06 / 02 / 2021 */
+
+position: absolute;
+width: 94px;
+height: 24px;
+left: 577px;
+top: 494px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 05 / 28 / 2021 */
+
+position: absolute;
+width: 94px;
+height: 24px;
+left: 577px;
+top: 455px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* 07 / 21 / 2021 */
+
+position: absolute;
+width: 89px;
+height: 24px;
+left: 577px;
+top: 572px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+color: #333333;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 277px;
+height: 117px;
+left: 57px;
+top: 111px;
+
+
+
+/* My Career Toolkit */
+
+position: absolute;
+width: 133px;
+height: 117px;
+left: 201px;
+top: 111px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 38.9351px;
+line-height: 39px;
+/* or 100% */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #333333;
+
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+
+
+/* Group 46 */
+
+position: absolute;
+width: 116px;
+height: 100.53px;
+left: 57px;
+top: 119px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 116px;
+height: 100.53px;
+left: 57px;
+top: 119px;
+
+background: linear-gradient(180deg, #00233C 0%, #2E83BD 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.99%;
+right: 78.8%;
+top: 11.27%;
+bottom: 79.21%;
+
+background: #000000;
+
+
+/* Rectangle 369 */
+
+position: absolute;
+width: 116px;
+height: 17.88px;
+left: 57px;
+top: 160.57px;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.76%;
+right: 80.29%;
+top: 16.67%;
+bottom: 79.75%;
+
+background: #FFFFFF;
+transform: rotate(-17.8deg);
+
+
+/* Subtract */
+
+position: absolute;
+width: 56.28px;
+height: 55.75px;
+left: 69.74px;
+top: 144.22px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.55%;
+right: 84.56%;
+top: 13.66%;
+bottom: 81.06%;
+
+background: #C4C4C4;
+
+
+/* Ellipse 83 */
+
+position: absolute;
+width: 29.76px;
+height: 29.76px;
+left: 83px;
+top: 157.21px;
+
+background: #C4C4C4;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 670px;
+height: 0px;
+left: 73px;
+top: 267px;
+
+border: 1px solid #000000;
