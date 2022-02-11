@@ -10,7 +10,7 @@
     <!-- using style tag instead  -->
     <style>
         * {
-            box-sizing: border-box;
+            box-sizing: content-box;
         }
 
         body {
@@ -23,7 +23,7 @@
             height: 1056px;
             background: rgba(250, 250, 250, 1);
             opacity: 1;
-            position: absolute;
+            position: relative;
             top: 0px;
             left: 0px;
             overflow: hidden;
@@ -147,7 +147,7 @@
         <!-- water mark -->
         <div class="watermark"></div>
 
-        <span class="transcript_title"> Courses Completed Transcript </span>
+        <span class="transcript_title"> Courses Completed Transcript</span>
 
         <span class="student_name"> NAME Student Name </span>
 
@@ -161,8 +161,8 @@
                 <td><span class="completion_date">COMPLETION DATE</span></td>
             </tr>
             <!-- table contents: each course and completion date is on a new row -->
-            <% if (completed_courses.length> 0) { %>
-                <% completed_courses.forEach(course=> { %>
+            <% if (completed_courses_ejs.length> 0) { %>
+                <% completed_courses_ejs.forEach(course=> { %>
                     <tr>
                         <td>
                             <span class="course_title_entry">

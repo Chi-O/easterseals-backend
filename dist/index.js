@@ -28,6 +28,8 @@ const index_1 = __importDefault(require("./routes/index"));
 dotenv.config();
 const app = express_1.default();
 const PORT = process.env.PORT || 4000;
+// set the view to ejs
+app.set('view engine', 'ejs');
 // middlewares
 app.use(express_1.default.json());
 app.use(index_1.default);
