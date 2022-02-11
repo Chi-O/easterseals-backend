@@ -31,13 +31,28 @@ export const getUserTranscript = async (req: Request, res: Response): Promise<Re
         student.rows[0].message = "Courses Completed Transcript"
         student.rows[0].completed_courses = completed_courses.rows
 
-        const completed_courses_ejs = student.rows[0].completed_courses
+        // use ejs to render the .ejs file
+        ejs.renderFile('./views/transcript.ejs', { completed_courses: student.rows[0].completed_courses }, function (err: string, data: any) {
+            if (err) {
+                // display error if any
+                console.log("line 34");
+                res.send(err + " line 34");
+            }
+            else {
+                // create pdf
+                pdf.create(data).toFile("transcript.pdf", function (err: any, data: any) {
+                    if (err) {
+                        // display error if any
+                        console.log("line 53")
+                        res.send(err);
+                    } else {
+                        res.send("File created successfully");
+                    }
+                })
+            }
+        });
 
-        res.render('transcript copy', {
-            completed_courses_ejs: completed_courses_ejs
-        })
-
-        return res.status(200).json({ message: "Transcript rendering successfully" });
+        return res.status(200).json({ message: "Transcript created successfully" });
     }
 
     catch (e) {
