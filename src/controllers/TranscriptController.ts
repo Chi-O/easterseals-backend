@@ -33,7 +33,7 @@ export const getUserTranscript = async (req: Request, res: Response): Promise<Re
 
         const completed_courses_ejs = student.rows[0].completed_courses
 
-        res.render('transcript', {
+        res.render('transcript copy', {
             completed_courses_ejs: completed_courses_ejs
         })
 

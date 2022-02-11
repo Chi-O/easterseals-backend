@@ -34,7 +34,7 @@ const getUserTranscript = (req, res) => __awaiter(void 0, void 0, void 0, functi
         student.rows[0].message = "Courses Completed Transcript";
         student.rows[0].completed_courses = completed_courses.rows;
         const completed_courses_ejs = student.rows[0].completed_courses;
-        res.render('transcript', {
+        res.render('transcript copy', {
             completed_courses_ejs: completed_courses_ejs
         });
         return res.status(200).json({ message: "Transcript rendering successfully" });
